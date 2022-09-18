@@ -17,11 +17,11 @@ imitating old nixie tubes. Unlike those tubes, these LEDs are reliable, low
 voltage, extremely efficient, can be any color, and also can be dimmed
 in dark environments.
 
-## Built-in Light Sensor
+## Built-in light sensor
 Smart, automagical brightness control. The digits also are proportionally lit more brightly toward the back to accommodate shining through multiple layers of acrylic.
 
 ## Bright light filter
-The top piece innovatively functions as an LED filter with louvers that almost completely hide the extremely bright LEDs from being seen.
+In addition to holding all the acrylic digits in place, the top piece functions as an LED filter with louvers that almost completely hides the extremely bright LEDs from being seen.
 
 ## PXL mode for the pixels!
 Everyone loves pixelation at the right time. The Foxie Clock 2.0 can be set into PXL mode and the lid can be swapped for a totally different experience.
