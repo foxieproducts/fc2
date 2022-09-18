@@ -31,7 +31,7 @@ Everyone loves pixelation at the right time. The Foxie Clock 2.0 can be set into
 ## Multiple animation styles, online updates, and more?
 There are multiple animation styles, WiFi online updates, and even expansion capabilities.
 
-The PCB is a simple, 2-layer single-sided PCB, using 92 LEDs, a hilariously powerful 160Mhz RISC-V Espressif ESP32-C3-MINI processor with 320KB RAM and 4MB flash. Then an external Real Time Clock, with a 23.768Khz Qwartz crystal, with a dedicated supercapacitor backup is added, just to make sure you don't lose the time. There's no glue, and only two nuts+bolts are used to hold together the entire clock. Take it apart, customize it, make it your own.
+The PCB is a simple, 2-layer single-sided PCB, using 92 LEDs, a hilariously powerful 160Mhz RISC-V Espressif ESP32-C3-MINI processor with 320KB RAM and 4MB flash. Then an external Real Time Clock, with a 32.768Khz Qwartz crystal, with a dedicated supercapacitor backup is added, just to make sure you don't lose the time. There's no glue, and only two nuts+bolts are used to hold together the entire clock. Take it apart, customize it, make it your own.
 
 ## How can you get yours?
 Buy one at [tindie.com](https://www.tindie.com/stores/foxieproducts/) or at [foxieproducts.com](https://foxieproducts.com).
