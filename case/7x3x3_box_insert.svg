@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="148.9853973388672mm" height="82.19999694824219mm" viewBox="0 0 148.9853973388672 82.19999694824219">
+<desc>Created with Glowforge for Fusion 360. To download visit: https://cam.autodesk.com/hsmposts?p=glowforge</desc>
+<!-- CAM Setup Info:
+Work Area Width: 148.9853973388672mm
+Work Area Height: 82.19999694824219mm
+Work Area Too Small?: false
+Stock box Upper Right: 72.4926986694336,39.099998474121094
+Stock box Lower Left: -72.4926986694336,-39.099998474121094
+Origin: 0,0
+Selected Colors: #0000d3, #02abea, #1fb714, #dd0907, #f20884, #fbf305
+-->
+<g id="global-translation-frame" transform="translate(74.493, 41.1) scale(1, -1)">
+<g id="opperation-1">
+    <title>Folds (Op: 1/3)</title>
+    <path d="M -34.796 38.1
+             L -34.796 -38.1
+             M 34.796 -38.1
+             L 34.796 38.1" fill="none" stroke="#0000d3" stroke-width="0.1"/>
+</g>
+<g id="opperation-2">
+    <title>Cutouts (Op: 2/3)</title>
+    <path d="M 0 -11.627
+             A 4.873 4.873 0 0 1 -4.873 -16.5
+             A 0.127 0.127 0 0 0 -5 -16.627
+             L -21.373 -16.627
+             L -21.373 -19.982
+             L -18.404 -30.473
+             L 18.404 -30.473
+             L 21.373 -19.982
+             L 21.373 -16.627
+             L 5 -16.627
+             A 0.127 0.127 0 0 0 4.873 -16.5
+             A 4.873 4.873 0 0 1 0 -11.627
+             M 0 28.428
+             L 19.534 28.428
+             A 0.127 0.127 0 0 0 19.439 28.551
+             L 19.439 31.551
+             A 0.127 0.127 0 0 0 19.534 31.674
+             L -19.403 31.674
+             A 0.127 0.127 0 0 0 -19.307 31.551
+             L -19.307 28.551
+             A 0.127 0.127 0 0 0 -19.403 28.428
+             L 0 28.428" fill="none" stroke="#02abea" stroke-width="0.1"/>
+</g>
+<g id="opperation-3">
+    <title>Perimeter (Op: 3/3)</title>
+    <path d="M -71.493 -38.227
+             A 0.127 0.127 0 0 0 -71.62 -38.1
+             L -71.62 38.1
+             A 0.127 0.127 0 0 0 -71.493 38.227
+             L 71.493 38.227
+             A 0.127 0.127 0 0 0 71.62 38.1
+             L 71.62 -38.1
+             A 0.127 0.127 0 0 0 71.493 -38.227
+             L -71.493 -38.227" fill="none" stroke="#1fb714" stroke-width="0.1"/>
+</g>
+</g>
+</svg>
