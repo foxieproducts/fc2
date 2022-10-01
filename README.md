@@ -2,7 +2,7 @@
 
 ![Image of Foxie Clock 2.0](images/fc2.jpg)
 
-Put simply, you'll love this clock. It is much more than the sum of its parts, including innovative features like built-in online firmware updates, a modern RISC-V processor that has WiFi (and BLE, though not yet supported), lots of configurability, time memory, light level awareness, built-in LED filter in the lid, and much, much more.
+This is a certified Open Source Hardware ([OSHW US002126](https://certification.oshwa.org/us002126.html)) clock that you are going to love. It is much more than the sum of its parts, including innovative features like built-in online firmware updates, a modern 160Mhz RISC-V processor that has WiFi (and BLE, though not yet supported), lots of configurability, time memory, light level awareness, built-in LED filter in the lid, and much, much more. 
 
 #### Powered by FCOS
 This is the firmware underpinning all the cool functionality. See [github.com/foxieproducts/fcos](https://github.com/foxieproducts/fcos) for a thorough rundown of [how to navigate](https://github.com/foxieproducts/fcos) the clock's streamlined interface.
